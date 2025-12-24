@@ -1,2 +1,3 @@
-# TDNN_mini_projects
-This repository contains small PyTorch experiments focused on time-delayed neural network fundamentals, data preprocessing, model training, evaluation workflows, and hands-on experimentation to build intuition and practical understanding.
+# TDNN Mini Projects
+
+This repository is a collection of small TDNN experiments created for learning and practice. Each experiment focuses on understanding a specific concept such as data loading, model training, evaluation, and experimentation with convolutional neural networks using simple datasets.
